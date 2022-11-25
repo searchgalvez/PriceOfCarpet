@@ -1,0 +1,8 @@
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\bin\Debug\priceofcarpet.exe.config
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\bin\Debug\priceofcarpet.exe
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\bin\Debug\priceofcarpet.pdb
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\obj\Debug\priceofcarpet.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\obj\Debug\priceofcarpet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\obj\Debug\priceofcarpet.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\obj\Debug\priceofcarpet.exe
+C:\Users\Sergio\Desktop\PG1\priceofcarpet\priceofcarpet\obj\Debug\priceofcarpet.pdb
